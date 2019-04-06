@@ -7,12 +7,12 @@ module.exports = {
         '/': {
             lang: 'en-US',
             title: 'Jekyll Pay Docs',
-            description: 'Vue-powered Static Site Generator'
+            description: 'Jekyll Pay Documentation'
         },
         '/zh/': {
             lang: 'zh-CN',
-            title: 'VuePress 1.x',
-            description: 'Vue 驱动的静态网站生成器'
+            title: 'Jekyll Pay 官方文档',
+            description: 'Jekyll Pay 官方文档'
         }
     },
     port: 8081,
