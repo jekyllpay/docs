@@ -1,0 +1,5 @@
+[[redirects]]
+from = "https://jekyllpay-docs.netlify.com/*"
+to = "https://docs.jekyllpay.com/:splat"
+status = 301
+force = true
